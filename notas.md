@@ -17,3 +17,8 @@
  17. <kbd></kbd>
  18. <kbd></kbd>
  19. text3
+ 17. <kbd></kbd>
+ 17. <kbd></kbd>
+ 18. <kbd>Dummy text to make the code fail</kbd>
+ 19. <kbd></kbd>
+ 20. text3
