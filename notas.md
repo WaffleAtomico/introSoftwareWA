@@ -12,8 +12,8 @@
  13. <kbd></kbd>
  14. <kbd></kbd>
  15. <kbd></kbd>
- 16. <kbd></kbd>
+ 16. <kbd>Texto para tronar archivos</kbd>
+ 16. <kbd>Texto para tronar archivos</kbd>
  17. <kbd></kbd>
  18. <kbd></kbd>
- 19. <kbd></kbd>
- 20. text3
+ 19. text3
